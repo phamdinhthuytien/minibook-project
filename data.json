@@ -1,0 +1,125 @@
+{
+  "items": 
+  [
+	  {
+      "id": 1,
+      "category" : "old",
+      "title": "Children Make Terrible Pets",
+      "author": "Peter Brown",
+      "img": "children-make-terrible-pets.jpg",
+      "price": 100000,
+      "rating": 3,
+      "desc": "When Lucy, a young bear, discovers a boy in the woods, she's absolutely delighted. She brings him home and begs her mom to let her keep him, even though her mom warns, Children make terrible pets. But mom relents, and Lucy gets to name her new pet Squeaker."
+    },
+	  {
+      "id": 2,
+      "category" : "new",
+      "title": "Green Eggs and Ham",
+      "author": "Dr.Seuss",
+      "img": "green-eggs-and-ham.jpg",
+      "price": 200000,
+      "rating": 4,
+      "desc": "Do you like green eggs and ham? Asks Sam-I-am in this Beginner Book by Dr. Seuss. In a house or with a mouse? In a boat or with a goat? On a train or in a tree? Sam keeps asking persistently. With unmistakable characters and signature rhymes, Dr. Seuss’s beloved favorite has cemented its place as a children’s classic. In this most famous of cumulative tales, the list of places to enjoy green eggs and ham, and friends to enjoy them with, gets longer and longer. Follow Sam-I-am as he insists that this unusual treat is indeed a delectable snack to be savored everywhere and in every way."
+  	},
+  	{
+      "id": 3,
+      "category" : "old",
+      "title": "It's Only leStany ",
+      "author": "Jon Agee",
+      "img": "its-only-stanley.jpg",
+      "price": 2000000,
+      "rating": 4,
+      "desc": "Mysterious noises keep waking up the Wimbledon family. That's very odd, says Mr. Wimbledon each time, but when he returns from checking on the sounds, he's always reassuring: It's only Stanley; he's fixing the oil tank. It's only Stanley; he's clearing the bathtub drain."
+  	},
+  	{
+      "id": 4,
+      "category" : "new",
+      "title": "Life on Mars",
+      "author": "Jon Agee",
+      "img": "life-on-mars.jpg",
+      "price": 400000,
+      "rating": 5,
+      "desc": "A young astronaut is absolutely sure there is life to be found on Mars. He sets off on a solitary mission, determined to prove the naysayers wrong. But when he arrives, equipped with a package of cupcakes as a gift, he sees nothing but a nearly barren planet. Finally, he spies a single flower and packs it away to take back to Earth as proof that there is indeed life on Mars. But as he settles in for the journey home, he cracks open his cupcakes—only to discover that someone has eaten them all!"
+  	},
+    {
+      "id": 5,
+      "category" : "old",
+      "title": "Little Santa",
+      "author": "Jon Agee",
+      "img": "little-santa.jpg",
+      "price": 350000,
+      "rating": 5,
+      "desc": "Little Santa loves the North Pole. The rest of his family?  Not so much. So, when they decide to move to Florida, Santa is miserable. Lucky for him, a blizzard foils their plans. The only way out of the house is up the chimney. Up goes Santa, to look for help, and along the way, he meets a reindeer and a large group of elves, who are more than eager to join in the rescue!"
+    },
+    {
+      "id": 6,
+      "category" : "new",
+      "title": "Lion Lessons",
+      "author": "Jon Agee",
+      "img": "lion-lessons.jpg",
+      "price": 300000,
+      "rating": 5,
+      "desc": "There are seven steps to becoming a proper lion, including Looking Fierce, Roaring, Prowling Around, and Pouncing. Our young hero, a rather meek and scrawny human boy, does his best to learn the necessary skills during his training with a master instructor (who just happens to be a real lion). After a grueling set of lessons, the boy discovers that that the final step—Looking Out for Your Friends—is the most important of all. That’s how any kid can earn his lion diploma (not to mention the affection of every cat in town)"
+    },
+    {
+      "id": 7,
+      "category" : "new",
+      "title": "Milo's Hat Trick",
+      "author": "Jon Agee",
+      "img": "milos-hat-trick.jpg",
+      "price": 100000,
+      "rating": 2,
+      "desc": "After failing to perform any good magic tricks during his show, Milo is close to losing his job, but while searching for a rabbit in the woods, Milo encounters a clever bear and quickly decides to use him for his next great trick that is sure to wow the audience. 40,000 first printing."
+    },
+    {
+      "id": 8,
+      "category" : "old",
+      "title": "My Rhinoceros",
+      "author": "Jon Agee",
+      "img": "my-rhinoceros.jpg",
+      "price": 250000,
+      "rating": 2,
+      "desc": "If you should ever get a rhinoceros for a pet, you're in for a surprise. It won't chase a ball. Or a stick. Or a frisbie. In fact, according to the experts, a rhinoceros does only two things: pop balloons and poke holes in kites"
+    },
+    {
+      "id": 9,
+      "category" : "new",
+      "title": "Smile",
+      "author": "Raina Telgemeier",
+      "img": "smile.jpg",
+      "price": 340000,
+      "rating": 3,
+      "desc": "Raina just wants to be a normal sixth grader. But one night after Girl Scouts she trips and falls, severely injuring her two front teeth. What follows is a long and frustrating journey with on-again, off-again braces, surgery, embarrassing headgear, and even a retainer with fake teeth attached. And on top of all that, there's still more to deal with: a major earthquake, boy confusion, and friends who turn out to be not so friendly"
+    },
+    {
+      "id": 10,
+      "category" : "new",
+      "title": "Strictly No Elephants",
+      "author": "Lisa Mantchev",
+      "img": "strictly-no-elephants.jpg",
+      "price": 250000,
+      "rating": 4,
+      "desc": "Today is Pet Club day. There will be cats and dogs and fish, but strictly no elephants are allowed. The Pet Club doesn’t understand that pets come in all shapes and sizes, just like friends. Now it is time for a boy and his tiny pet elephant to show them what it means to be a true friend."
+    },
+    {
+      "id": 11,
+      "category" : "new",
+      "title": "I'm a Frog!",
+      "author": "Mo Willems",
+      "img": "im-a-frog.jpg",
+      "price": 160000,
+      "rating": 4,
+      "desc": "Gerald is careful. Piggie is not.Piggie cannot help smiling. Gerald can.Gerald worries so that Piggie does not have to."
+    },
+    {
+      "id": 12,
+      "category" : "new",
+      "title": "Room on the Broom",
+      "author": "Julia Donaldson",
+      "img": "room-on-the-broom.jpg",
+      "price": 180000,
+      "rating": 3,
+      "desc": "The witch and her cat are happily flying through the sky on a broomstick when the wind picks up and blows away the witch's hat, then her bow, and then her wand!  Luckily, three helpful animals find the missing items, and all they want in return is a ride on the broom.  But is there room on the broom for so many friends?  And when disaster strikes, will they be able to save the witch from a hungry dragon?"
+    }
+  ]
+}
